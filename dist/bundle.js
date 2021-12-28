@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=function(e,o){console.log(e*o)};console.log("connet with webpack!"),e(3,5),e(2,7),(new class{create(){const e=document.createElement("h3");e.innerHTML=text,document.querySelector("body").appendChild(e)}}).create("Hello World!")})();
