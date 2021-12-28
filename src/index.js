@@ -1,5 +1,5 @@
 import soma from './calc.js';
-import Header from './header.js';
+import Header from './components/header.js';
 
 console.log('connet with webpack!');
 

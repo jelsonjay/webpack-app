@@ -1,6 +1,10 @@
+import './style.css';
+
 class Header {
-	create() {
+	create(text) {
 		const header = document.createElement('h2');
+
+		header.classList.add('title');
 
 		header.innerHTML = text;
 
