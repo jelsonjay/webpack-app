@@ -8,7 +8,7 @@ function Product() {
 	});
 	return (
 		<>
-			<h1>Reactjs</h1>
+			<h1>react</h1>
 		</>
 	);
 }
