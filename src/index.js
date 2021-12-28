@@ -8,3 +8,4 @@ soma(2, 7);
 
 const header = new Header();
 header.create('Hello World!');
+header.create('Hello World!');

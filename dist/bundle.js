@@ -46,7 +46,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _calc_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./calc.js */ \"./src/calc.js\");\n/* harmony import */ var _components_header_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./components/header.js */ \"./src/components/header.js\");\n\r\n\r\n\r\nconsole.log('connet with webpack!');\r\n\r\n(0,_calc_js__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(3, 5);\r\n(0,_calc_js__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(2, 7);\r\n\r\nconst header = new _components_header_js__WEBPACK_IMPORTED_MODULE_1__[\"default\"]();\r\nheader.create('Hello World!');\r\n\n\n//# sourceURL=webpack://webpack/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _calc_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./calc.js */ \"./src/calc.js\");\n/* harmony import */ var _components_header_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./components/header.js */ \"./src/components/header.js\");\n\r\n\r\n\r\nconsole.log('connet with webpack!');\r\n\r\n(0,_calc_js__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(3, 5);\r\n(0,_calc_js__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(2, 7);\r\n\r\nconst header = new _components_header_js__WEBPACK_IMPORTED_MODULE_1__[\"default\"]();\r\nheader.create('Hello World!');\r\nheader.create('Hello World!');\r\n\n\n//# sourceURL=webpack://webpack/./src/index.js?");
 
 /***/ })
 
