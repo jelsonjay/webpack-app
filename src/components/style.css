@@ -4,3 +4,10 @@
 	border: 1px solid orange;
 	text-align: center;
 }
+
+a {
+	text-decoration: none;
+}
+ul {
+	list-style: none;
+}
